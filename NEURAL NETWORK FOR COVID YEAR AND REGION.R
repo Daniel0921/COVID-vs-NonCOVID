@@ -42,7 +42,7 @@ library(nnet)
 #
 # ============================================================
 
-data <- read.csv("C:\\Users\\MyPC\\OneDrive\\Desktop\\COVID vs NonCOVID factors - April 24th, 2023.csv")
+data <- read.csv("")
 
 
 # ============================================================
