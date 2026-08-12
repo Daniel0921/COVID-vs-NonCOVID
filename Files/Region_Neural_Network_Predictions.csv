@@ -1,0 +1,59 @@
+"Actual_Region","Predicted_Region","Correct"
+"Western Europe","Western Europe",TRUE
+"Sub-Saharan Africa","Sub-Saharan Africa",TRUE
+"Southeast Asia","Southeast Asia",TRUE
+"North America","Western Europe",FALSE
+"Central America","Central America",TRUE
+"Western Europe","East Asia",FALSE
+"Sub-Saharan Africa","Sub-Saharan Africa",TRUE
+"Western Europe","Western Europe",TRUE
+"Western Europe","Central and Eastern Europe",FALSE
+"Sub-Saharan Africa","Sub-Saharan Africa",TRUE
+"Middle East and North Africa","Middle East and North Africa",TRUE
+"Sub-Saharan Africa","Sub-Saharan Africa",TRUE
+"Middle East and North Africa","South America",FALSE
+"Former Soviet Union","Former Soviet Union",TRUE
+"Sub-Saharan Africa","Sub-Saharan Africa",TRUE
+"Sub-Saharan Africa","Middle East and North Africa",FALSE
+"Sub-Saharan Africa","Former Soviet Union",FALSE
+"East Asia","Former Soviet Union",FALSE
+"South Asia","South Asia",TRUE
+"Central America","Central America",TRUE
+"Central and Eastern Europe","Former Soviet Union",FALSE
+"Middle East and North Africa","Middle East and North Africa",TRUE
+"Central and Eastern Europe","Former Soviet Union",FALSE
+"East Asia","East Asia",TRUE
+"Western Europe","East Asia",FALSE
+"Former Soviet Union","Former Soviet Union",TRUE
+"Caribbean","Former Soviet Union",FALSE
+"Middle East and North Africa","South America",FALSE
+"South America","Middle East and North Africa",FALSE
+"Southeast Asia","South America",FALSE
+"South Asia","South Asia",TRUE
+"Central and Eastern Europe","Central and Eastern Europe",TRUE
+"Sub-Saharan Africa","Sub-Saharan Africa",TRUE
+"Central and Eastern Europe","Former Soviet Union",FALSE
+"North America","Western Europe",FALSE
+"Sub-Saharan Africa","Sub-Saharan Africa",TRUE
+"East Asia","East Asia",TRUE
+"South America","South America",TRUE
+"Sub-Saharan Africa","Sub-Saharan Africa",TRUE
+"Western Europe","Western Europe",TRUE
+"Central America","Central America",TRUE
+"Caribbean","Caribbean",TRUE
+"Central and Eastern Europe","Central and Eastern Europe",TRUE
+"South Asia","Sub-Saharan Africa",FALSE
+"Sub-Saharan Africa","Sub-Saharan Africa",TRUE
+"Central and Eastern Europe","Central and Eastern Europe",TRUE
+"Central and Eastern Europe","Central and Eastern Europe",TRUE
+"Western Europe","Western Europe",TRUE
+"Sub-Saharan Africa","Sub-Saharan Africa",TRUE
+"Sub-Saharan Africa","Sub-Saharan Africa",TRUE
+"Central and Eastern Europe","Middle East and North Africa",FALSE
+"Central America","Central America",TRUE
+"South Asia","Sub-Saharan Africa",FALSE
+"South America","Caribbean",FALSE
+"Central and Eastern Europe","Former Soviet Union",FALSE
+"Central and Eastern Europe","Caribbean",FALSE
+"Western Europe","East Asia",FALSE
+"Southeast Asia","Former Soviet Union",FALSE
