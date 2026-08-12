@@ -32,17 +32,17 @@ library(readr)
 # ============================================================
 
 raw_data <- read.csv(
-  "C:\\Users\\MyPC\\OneDrive\\Desktop\\COVID vs NonCOVID factors - April 24th, 2023.csv"
+  ""
 )
 
 
 covid_results <- read.csv(
-  "C:\\Users\\MyPC\\OneDrive\\Desktop\\COVID_Year_Neural_Network_Predictions.csv"
+  ""
 )
 
 
 region_results <- read.csv(
-  "C:\\Users\\MyPC\\OneDrive\\Desktop\\Region_Neural_Network_Predictions.csv"
+  ""
 )
 
 
